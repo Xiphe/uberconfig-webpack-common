@@ -1,0 +1,16 @@
+{
+  "name": "uberconfig-webpack-common",
+  "version": "0.0.0",
+  "description": "uberconfig wrapper for webpack configuration, including common defaults",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hannes Diercks <uberconfig-webpack-common@xiphe.net>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "2.13.1",
+    "eslint-config-airbnb-base": "3.0.1",
+    "eslint-plugin-import": "1.9.2"
+  }
+}
