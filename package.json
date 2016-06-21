@@ -12,5 +12,8 @@
     "eslint": "2.13.1",
     "eslint-config-airbnb-base": "3.0.1",
     "eslint-plugin-import": "1.9.2"
+  },
+  "dependencies": {
+    "webpack-merge": "0.14.0"
   }
 }
